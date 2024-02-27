@@ -1,0 +1,7 @@
+{
+  "name": "mobileq",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
